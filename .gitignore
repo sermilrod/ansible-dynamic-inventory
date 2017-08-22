@@ -1,0 +1,6 @@
+__pycache__
+*.pyc
+.cache
+src/__pycache__
+src/*.pyc
+src/.cache
